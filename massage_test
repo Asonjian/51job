@@ -1,0 +1,16 @@
+https://search.51job.com/list/050000,000000,0000,00,9,99,%25E8%2587%25AA%25E5%258A%25A8%25E5%258C%2596,2,2.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=
+https://search.51job.com/list/050000,000000,0000,00,9,99,%25E8%2587%25AA%25E5%258A%25A8%25E5%258C%2596,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=
+https://search.51job.com/list/050000,000000,0000,00,9,01,%25E8%2587%25AA%25E5%258A%25A8%25E5%258C%2596,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=
+https://search.51job.com/list/050000,000000,0000,00,9,02,%25E8%2587%25AA%25E5%258A%25A8%25E5%258C%2596,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=
+https://search.51job.com/list/050000,000000,0000,00,9,09,%25E8%2587%25AA%25E5%258A%25A8%25E5%258C%2596,2,1.html?lang=c&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&ord_field=0&dibiaoid=0&line=&welfare=
+设计思路与实现方式：
+要展示的内容：
+1.天津地区关于自动化的所有的工作招聘数量
+2.统计出对自动化专业需求量最大的公司并且展示数量
+3.统计薪资的分布：近十年来的薪资分布曲线；目前51上薪资区间内的数量分布
+4.各个区内的自动化岗位需求数量
+5.本科，大专，硕士及以上学历的需求分布占比
+6.人才招聘信息的发布滚动
+7.词云
+数据库表格信息
+序号 需求岗位 企业名称 企业所属类型 企业所在地 学历要求 薪资
