@@ -11,14 +11,14 @@ import xlwt
 import pymysql
 from bs4 import BeautifulSoup
 from lxml import etree
-import wordcloud
+
 
 def get_html(src):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84'}
     cookies = {'acw_sc__v2':'61d3000171599fd9df8bfe9a4596efb8b322365e'}
     response = requests.get(url=src, headers=headers,cookies=cookies)
-    response.encoding = response.apparent_encoding
+
     return response
 
 
