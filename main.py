@@ -11,7 +11,7 @@ import xlwt
 import pymysql
 from bs4 import BeautifulSoup
 from lxml import etree
-
+import wordcloud
 
 def get_html(src):
     headers = {
